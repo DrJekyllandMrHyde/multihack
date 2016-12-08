@@ -13,16 +13,14 @@ var Config = (function(){
 <body>
     <h1>Welcome to MultiHack!</h1>
     <ul>
-        <li>Collaborate in real-time.</li>
-    	<li>Syntax highlighting for every web language.</li>
-    	<li>Voice chat with up to 10 people! (WebRTC only)</li>
-    	<li>Instantly deploy your website via HyperHost (WebRTC only)</li>
-        <li>Import files, ZIP archives and GitHub repos.</li>
-    	<li>Save your project for working offline.</li>
-    	<li>MultiHack is the ONLY multi-file, multi-user code editor on the web.</li>
-        
-        <!-- Try deploying this file! -->
-        <a href="http://github.com/RationalCoding/multihack" target="_blank">Source Code</a>
+       <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Nordic living room with Vray lighting</a>
+    by <a href="https://sketchfab.com/tarekadhami?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">tarekadhami</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
     </ul>
 </body> 
     
