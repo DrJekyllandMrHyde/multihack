@@ -15,11 +15,8 @@ var Config = (function(){
     <ul>
        <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Nordic living room with Vray lighting</a>
-    by <a href="https://sketchfab.com/tarekadhami?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">tarekadhami</a>
-    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
+
+
 </div>
     </ul>
 </body> 
