@@ -11,9 +11,9 @@ var Config = (function(){
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome to MultiHack!</h1>
+    <!--<h1>Welcome to MultiHack!</h1>-->
     <ul>
-       <div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+       <div class="sketchfab-embed-wrapper"><iframe style="height:100vw;width:100%;" src="https://sketchfab.com/models/b9f6dc4ace8f4edc8e136cb5ec33cc97/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 
 
