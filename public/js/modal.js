@@ -114,10 +114,10 @@ Modal.templates['intro'] = `<h1></h1>
 `;
 
 Modal.templates['welcome'] = `<h1></h1>
-    <h3>Great!</h3>
+    <!--<h3>Great!</h3>
     <p>You are now ready to use MultiHack.</p>
     <p>MultiHack uses websocket technology to connect coders of all skill level, from around the world.</p>
-    <br>
+    <br>-->
     <button data-value="close" class="no-button"> ✔</button>
     <!--<button data-value="submit" class="go-button">Tell Me More</button>-->`;
 
