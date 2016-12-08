@@ -11,7 +11,7 @@ var Config = (function(){
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <!--<h1>Welcome to MultiHack!</h1>-->
+    
     <ul style="
     margin: 0;
     padding: 0;
