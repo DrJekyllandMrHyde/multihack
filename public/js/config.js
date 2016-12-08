@@ -6,7 +6,10 @@ var Config = (function(){
         {
             name: "index.html",
             fileId: "welcome",
-            content: `<html>
+            content: `<html lang="ru" class="theme-atom" style="
+    text-shadow: 0px 2px 3px #ffe500;
+    font-weight: 900;
+">
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
