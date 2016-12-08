@@ -26,7 +26,7 @@ var Config = (function(){
 <head>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<!--<body>
     <h1>Welcome to MultiHack!</h1>
 
     <ul>
@@ -40,7 +40,7 @@ var Config = (function(){
         
         <!-- Try deploying this file! -->
 
-        <a href="http://github.com/RationalCoding/multihack" target="_blank">Source Code</a>
+        <!--<a href="http://github.com/RationalCoding/multihack" target="_blank">Source Code</a>
     </ul>
 </body> 
     
