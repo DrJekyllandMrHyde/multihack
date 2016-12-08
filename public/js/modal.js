@@ -104,22 +104,22 @@ var Modal = (function (Microstache) {
 }(Microstache));
 
 /* Modal definitions */
-Modal.templates['intro'] = `<h1>WELCOME TO MultiHack</h1>
-    <h3>A Social IDE</h3>
-    <p>First, choose a USERNAME.</p>
+Modal.templates['intro'] = `<h1></h1>
+    <h3></h3>
+    <p>ник</p>
     <br>
     <input class="modal-input" type="text" placeholder="Guest">
-    <button data-value="submit" class="go-button">GO</button>
+    <button data-value="submit" class="go-button"> ✔</button>
     <p>{{flash}}</p>
 `;
 
-Modal.templates['welcome'] = `<h1>Welcome to MultiHack</h1>
+Modal.templates['welcome'] = `<h1></h1>
     <h3>Great!</h3>
     <p>You are now ready to use MultiHack.</p>
     <p>MultiHack uses websocket technology to connect coders of all skill level, from around the world.</p>
     <br>
-    <button data-value="close" class="no-button">I'll Figure It Out</button>
-    <button data-value="submit" class="go-button">Tell Me More</button>`;
+    <button data-value="close" class="no-button"> ✔</button>
+    <!--<button data-value="submit" class="go-button">Tell Me More</button>-->`;
 
 Modal.next('welcome', function (button, input) {
     Modal.open('welcome-2');
