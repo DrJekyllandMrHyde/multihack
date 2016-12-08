@@ -483,7 +483,7 @@ input[type="text"].long {
 /* File upload */
 input[type='file'] {
     width: 63px;
-    padding: 3px 6px 6px 6px;
+    padding: 0px 15px 10px 15px;
     height: 26px;
     position: relative;
     top: 28px;
@@ -502,7 +502,7 @@ input[type='file']::-webkit-file-upload-button {
 }
 
 input[type='file']::before {
-    content: 'Upload';
+    content: 'загрузить';
     display: inline-block;
     outline: none;
     white-space: nowrap;
@@ -511,7 +511,7 @@ input[type='file']::before {
     font-size: 13px;
     color: white;
     position: relative;
-    bottom: 4px;
+    /*bottom: 4px;*/
     left: -7px;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
