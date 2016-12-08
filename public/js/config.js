@@ -70,6 +70,18 @@ h1 {
 for (var i=0; i < 10; i++){
     //A meaningless loop!
 }`
+        },
+        {
+            name: "style.css",
+            fileId: "welcome4",
+            content: `body {
+    background: lightgray;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkgreen;
+}`
         }
     ];
     /*-------------------------------*/
