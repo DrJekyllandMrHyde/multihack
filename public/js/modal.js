@@ -108,7 +108,7 @@ Modal.templates['intro'] = `<h1></h1>
     <h3></h3>
     <p>ник</p>
     <br>
-    <input class="modal-input" type="text" placeholder="Guest">
+    <input class="modal-input" type="text" placeholder="...">
     <button data-value="submit" class="go-button"> ✔</button>
     <p>{{flash}}</p>
 `;
