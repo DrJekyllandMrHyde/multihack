@@ -72,8 +72,21 @@ for (var i=0; i < 10; i++){
 }`
         },
         {
-            name: "style.css",
+            name: "image.svg",
             fileId: "welcome4",
+            content: `body {
+    background: lightgray;
+    font-family: Arial;
+}
+
+h1 {
+    color: darkgreen;
+}`
+        }
+        ,
+        {
+            name: "sound.mp3",
+            fileId: "welcome5",
             content: `body {
     background: lightgray;
     font-family: Arial;
