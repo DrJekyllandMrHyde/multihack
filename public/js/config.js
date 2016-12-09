@@ -306,25 +306,10 @@ var Config = (function(){
   </div>
 </div>
 <div id='howto'>
- <!-- <p>Designed to work in Webkit (chrome) browsers, some things are funky in firefox.</p>
-  <p>
-    <a href='https://www.youtube.com/watch?v=od4GjF5g5V0'>Demo</a>
-  </p>
-  <p>In order to start making some tunes, turn on some of those square lights on the top of the sequencer. You can change what tunes these magical tune-lights play by clicking the little gray bar on the left of the sequencer, and pasting in URLs to your favorite .WAV files (Or any suitable sound file I suppose).</p>
-  <p>Great! Definintely the world's next Skrillex in the making.</p>
-  <p>Want to make your tunes better? Start playing with the little knobbies. The blue ones adjust the volume, the green ones adjust the tempo, the orange ones adjust the pitch. The little knobs adjust said functions on a note-by-note basis, the big ones adjust said functions on a song-wide level.</p>
-  <p>The first 3 red rows are reserved for drum samples, and therefor are unaffected by the orange pitch knob.</p>
-  <p>The next 3 green rows are reserved for melodies and things that are going to get heavily modified by the pitch (orange) knob</p>
-  <p>The final 3 blue rows are like the drum rows in that they are not affected by the pitch control, but they are also not affected by the note-by-note volume control (the sample-by-sample volume control still works, however)</p>
-  <p>
-    <a href='mattroelle.com'>By: Matt roelle | mattroelle.com</a>
-  </p>-->
 </div>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://dl.dropboxusercontent.com/u/87705298/jquery%20knob/knob.jquery.min.js'></script>
-
     <script src="https://drjekyllandmrhyde.github.io/sound-sequencer%20(2)/js/index.js"></script>
-
 </body>
 </html>
 `
@@ -332,7 +317,7 @@ var Config = (function(){
         {
             name: "style.css",
             fileId: "welcome2",
-            content: `@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+            content: `@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 /* Mixins */
 body {
   background-color: #1e1e1e;
