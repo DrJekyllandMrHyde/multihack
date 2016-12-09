@@ -13,7 +13,7 @@ var Config = (function(){
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Секвенсор</title>
+  <title>Sequencer</title>
            <link rel="stylesheet" href="style.css">
 </head>
 <body>
