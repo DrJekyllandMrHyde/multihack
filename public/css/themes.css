@@ -132,12 +132,12 @@
 }
 
 .theme-atom *::-webkit-scrollbar-track {
-    border-color: #1D1F21;
-    background: #1D1F21;
+    border-color: transparent;
+    background: transparent;
 }
 
 .theme-atom *::-webkit-scrollbar-thumb {
-    /*background: #292C2F;*/
+    background:#507299;
 }
 
 .theme-atom *::-webkit-scrollbar-thumb:hover {
