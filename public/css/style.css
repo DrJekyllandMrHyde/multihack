@@ -267,7 +267,7 @@ img ,
     border-top: solid transparent 0px;
     font-size: 12px;
     padding: 2px 5px 0 5px;
-    background: transparent;
+    background:#d1d9e0;
 }
 
 .workspace .statusbar #themebutton:hover{
