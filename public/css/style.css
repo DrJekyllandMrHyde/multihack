@@ -260,9 +260,10 @@ img ,
     right: 0;
     height: 18px;
     z-index: 999999;
-    border-top: solid transparent 1px;
+    border-top: solid transparent 0px;
     font-size: 12px;
     padding: 2px 5px 0 5px;
+    background: transparent;
 }
 
 .workspace .statusbar #themebutton:hover{
