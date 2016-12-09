@@ -137,7 +137,7 @@
 }
 
 .theme-atom *::-webkit-scrollbar-thumb {
-    background: #292C2F;
+    /*background: #292C2F;*/
 }
 
 .theme-atom *::-webkit-scrollbar-thumb:hover {
