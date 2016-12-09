@@ -580,7 +580,8 @@ span.mobile-hide{
             right: 245px;
     }
     .nav .mic {
-        right: 55px;
+        right: 350px;
+
     }
     span.mobile-hide{
         display: inline-block;
