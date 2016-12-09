@@ -202,12 +202,15 @@ img ,
     height: 20px;
 }
 .workspace .delete {
-    background: firebrick;
+    background: rgba(255, 61, 0, 0.51);
     position: absolute;
     right: 10px;
     bottom: 30px;
     border-color: red;
     z-index: 10;
+}
+.workspace .delete:hover{
+ background: firebrick;
 }
 
 .workspace .image-contrast {
