@@ -253,6 +253,7 @@ img ,
 }
 
 .workspace .statusbar {
+    color: #507299;
     position: absolute;
     bottom: 0;
     left: 0;
