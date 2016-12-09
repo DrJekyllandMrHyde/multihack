@@ -432,6 +432,7 @@ a {
 
 input[type="text"] {
     color: white;
+    font-weight: 900;
     background: black;
     border: 3px transparent solid;
     outline: none;
