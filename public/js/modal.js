@@ -106,7 +106,7 @@ var Modal = (function (Microstache) {
 /* Modal definitions */
 Modal.templates['intro'] = `<h1></h1>
     <h3></h3>
-    <p>ник</p>
+    <p style="font-weight: 900;">nickname</p>
     <br>
     <input class="modal-input" type="text" placeholder="...">
     <button data-value="submit" class="go-button"> ✔</button>
