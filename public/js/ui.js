@@ -482,6 +482,6 @@ var UI = (function (FileSystem, Sockets, HyperHost, Modal, $, Microstache, Util,
     FileSystem.openString(code, ext);
     if (theme) FileSystem.setTheme(theme);
 
-    console.log("%c Hack that console! If you're after the source: https://github.com/RationalCoding/MultiHack", "color:#263238; font-size: 15px;");
+    console.log("%c Hack that console! ", "color:#263238; font-size: 15px;");
 
 }(FileSystem, Sockets, HyperHost, Modal, $, Microstache, Util, Config.UI))
