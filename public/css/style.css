@@ -278,6 +278,8 @@ img ,
 
 .toolbar .roomlist {
     right: 0;
+    color: #507299;
+    font-weight: 900;
 }
 
 .toolbar .onlinelist {
