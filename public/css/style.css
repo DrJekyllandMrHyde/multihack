@@ -283,6 +283,8 @@ img ,
 .toolbar .onlinelist {
     left: 0;
     border-right: solid transparent 1px;
+        color: #507299;
+    font-weight: 900;
 }
 
 .toolbar #collapsetoolbar {
