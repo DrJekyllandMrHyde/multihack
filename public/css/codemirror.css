@@ -189,7 +189,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {color: #f22;}
   overflow-x: scroll;
 }
 .CodeMirror-scrollbar-filler {
-  right: 0; bottom: 0;
+  right: 0; bottom: 0;background: #d1d9e0;
 }
 .CodeMirror-gutter-filler {
   left: 0; bottom: 0;
