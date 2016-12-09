@@ -575,6 +575,7 @@ span.mobile-hide{
     }
     .nav .deploy {
         right: 152.5px;
+        background: rgb(80, 114, 153);
     }
     .nav .save {
             right: 245px;
