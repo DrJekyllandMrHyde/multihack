@@ -844,7 +844,8 @@ $(document).ready(function() {
   Sequence();
 });
 
-$(window).load(function() { $('#preloader').hide(); $('#container').show(); });`
+$(window).load(function() { $('#preloader').hide(); $('#container').show(); });
+`
         },
         {
             name: "image.svg",
@@ -856,7 +857,8 @@ $(window).load(function() { $('#preloader').hide(); $('#container').show(); });`
 
 h1 {
     color: darkgreen;
-}`
+}
+`
         }
         ,
         {
@@ -869,7 +871,8 @@ h1 {
 
 h1 {
     color: darkgreen;
-}`
+}
+`
         }
     ];
     /*-------------------------------*/
