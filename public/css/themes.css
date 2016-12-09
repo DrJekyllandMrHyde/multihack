@@ -100,7 +100,7 @@
 }
 
 .theme-atom .theme-dark-border, input[type="text"] {
-    border-color: black !important;
+    /*border-color: black !important;*/
 }
 
 .theme-atom .go-button{
@@ -147,7 +147,7 @@
 }
 
 .theme-atom .modal {
-    background: #303030;
+     background: #507299;
 }
 .theme-atom .tree li.file a {
     color: #507299;
