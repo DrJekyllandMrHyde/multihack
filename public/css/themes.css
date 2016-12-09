@@ -94,7 +94,7 @@
 }
 
 .theme-atom .theme-border{
-    border-color: black !important;
+    border-color: rgba(0, 119, 255, 0.43) !important;
 }
 
 .theme-atom .theme-dark-border, input[type="text"] {
