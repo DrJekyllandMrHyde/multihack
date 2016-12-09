@@ -100,7 +100,7 @@ img ,
 
 .panel-topbar {
     height: 20px;
-    border-bottom: solid transparent 1px;
+    border-bottom: solid transparent 0px;
     position: absolute;
     top: 0;
     right: 0;
