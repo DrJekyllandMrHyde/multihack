@@ -287,10 +287,11 @@ img ,
 }
 
 .toolbar .onlinelist {
-    left: 0;
-    border-right: solid transparent 1px;
-        color: #507299;
+      left: 0;
+    border-right: dotted #d1d9e0 3px;
+    color: #507299;
     font-weight: 900;
+    width: 46%;
 }
 
 .toolbar #collapsetoolbar {
