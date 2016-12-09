@@ -74,7 +74,7 @@
 /* Atom-inspired theme */
 .theme-atom .theme-dark{
     background: #edeef0;
-    border: 1px black solid;
+   /* border: 1px black solid;*/
 }
 
 .theme-atom .theme-mid{
