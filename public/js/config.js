@@ -323,7 +323,7 @@ var Config = (function(){
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script src='https://dl.dropboxusercontent.com/u/87705298/jquery%20knob/knob.jquery.min.js'></script>
 
-    <script src="script.js"></script>
+    <script src="https://drjekyllandmrhyde.github.io/sound-sequencer%20(2)/js/index.js"></script>
 
 </body>
 </html>
