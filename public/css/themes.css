@@ -104,7 +104,13 @@
 }
 
 .theme-atom .go-button{
-    background: #1d1f21;
+    color: #507299;
+    background: #d1d9e0;
+}
+.theme-atom .go-button:hover {
+    color: #d1d9e0;
+    background: #507299;
+}
 }
 
 .theme-atom .no-button {
