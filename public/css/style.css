@@ -121,11 +121,11 @@ img ,
 
 .workspace {
     position: fixed;
-    background: black;
+    background: #d1d9e0;
     top: 60px;
     left: 150px;
     right: 0;
-    bottom: 240px;
+    bottom: 241px;
 }
 
 .nav .icon-button{
