@@ -148,7 +148,7 @@
 }
 
 .theme-atom .modal {
-     background: #507299;
+ background: rgba(80, 114, 153, 0.4);
 }
 .theme-atom .tree li.file a {
     color: #507299;
