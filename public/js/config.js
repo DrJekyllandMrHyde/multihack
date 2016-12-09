@@ -6,19 +6,16 @@ var Config = (function(){
         {
             name: "index.html",
             fileId: "welcome",
-            content: `<!DOCTYPE html>
+            content: `<!----------------------------------------------->
+<!-- преднастройка падов в script.js строка 134  -->
+<!----------------------------------------------->
+<!DOCTYPE html>
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Sound Sequencer</title>
-  
-  
-  
-      <link rel="stylesheet" href="style.css">
-
-  
+  <title>Секвенсор</title>
+           <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
   <div id='preloader'>
   <h1>Loading</h1>
