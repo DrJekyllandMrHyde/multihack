@@ -18,7 +18,6 @@ var Config = (function(){
 </head>
 <body>
   <div id='preloader'>
-  <h1>Loading</h1>
 </div>
 <div id='container'>
   <div id='drawer'>
