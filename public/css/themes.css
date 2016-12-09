@@ -147,7 +147,9 @@
     color: #aaaaaa;
 }
 .theme-atom .tree .plus {
-    color: #2BDA77;
+       color: #2BDA77;
+    font-size: 1.3rem;
+    font-weight: 900;
 }
 .theme-atom .tree li.file a:hover {
     color: #2BDA77;
